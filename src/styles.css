@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    font-style: italic;
+    background-color: #140606;
+    color: #333;
+  }
+  
+  .app {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: lightskyblue;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .search-bar input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .book-list {
+    margin-top: 20px;
+  }
+  
+  .book-item {
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .book-item h3 {
+    margin: 0;
+    font-size: 1.2em;
+  }
+  
+  .book-item p {
+    margin: 5px 0;
+  }
+  
+  form input {
+    width: 100%;
+    padding: 8px;
+    margin: 10px 0;
+    margin-bottom: 20px;
+  }
+  
+  form button {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  form button:hover {
+    background-color: #218838;
+  }
+  
