@@ -9,9 +9,12 @@ Add new books to the list.
 Filter books by title and genre with a search bar
 
 
-how to Run
 
- you have to npm install on your computer.
+
+how to Run.
+
+ you have to npm install on your 
+ computer.
  Clone the repository and run npm install to install dependencies.
  Run npm start to launch the app.
 
