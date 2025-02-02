@@ -27,7 +27,9 @@ function App() {
     book.genre.toLowerCase().includes(searchTerm.toLowerCase())
   );
 
+
   return (
+    
     <div className="app">
       <h1>Digital Library</h1>
       <SearchBar searchTerm={searchTerm} handleSearchChange={handleSearchChange} />
